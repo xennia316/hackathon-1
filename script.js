@@ -10,7 +10,7 @@ function bgChanger(){
     }
     if(this.scrollY > (hero.clientHeight + section2.clientHeight + section12.clientHeight)){
         console.log("yes");
-        document.body.style.background = "#2dc7ff";
+        document.body.style.background = "#6f2dbd";
     }
     else{
         document.body.style.background = "#fff";
