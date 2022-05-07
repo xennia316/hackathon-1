@@ -297,7 +297,8 @@ nav{
         display: none;
     }
 
-    #about{
+    .about-card{
         display: block;
+        width: fit-content;
     }
 }
